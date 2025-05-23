@@ -15,6 +15,7 @@ def hello_world():
             <h1>Welcome to Azure Explorer!</h1>
             <p>This application is running in Azure.</p>
             <p>Powered by Python Flask, Docker, and various Azure Services.</p>
+            <p>Update 1</p>
             <img src='{IMAGE_URL}' alt='App Image' style='max-width: 300px; margin-top: 20px; border: 1px solid #ccc;'>
             <p><small>Image URL: {IMAGE_URL}</small></p>
         </body>
